@@ -61,7 +61,7 @@
     "@types/mapbox-gl-leaflet": "^0.0.1",
     "classnames": "^2.2.6",
     "compare-versions": "^3.6.0",
-    "cookie": "^0.4.1",
+    "cookie": "^0.7.0",
     "crc": "^3.8.0",
     "d3-color": "^3.1.0",
     "d3-format": "^2.0.0",
